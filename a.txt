@@ -1,3 +1,6 @@
 in this example we work and update file and then give to remote repositary to know all the changes we have made so far
 
 1st we have to make a repositary in remote library without initializing
+in toolbox there is a option of >remote>add
+we paste the url of a remote repositary
+it will connect to remote
