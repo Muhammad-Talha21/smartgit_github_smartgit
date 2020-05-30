@@ -4,3 +4,5 @@ in this example we work and update file and then give to remote repositary to kn
 in toolbox there is a option of >remote>add
 we paste the url of a remote repositary
 it will connect to remote
+
+remaining work is same as previous
